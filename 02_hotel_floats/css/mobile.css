@@ -1,0 +1,80 @@
+body {
+    /*display: none;*/
+}
+
+.navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+.navbar ul,
+.navbar ul li {
+    float: none;
+}
+
+.navbar ul li a {
+    padding: 5px 0 5px 0;
+    border-bottom: #444 dotted 1px;
+}
+
+nav .container{
+    padding: 0;
+}
+
+.showcase .showcase-content {
+    height: 100%;
+    padding-top: 70px;
+}
+
+/* Home INfo */
+
+.home-info {
+    height: 550px;
+}
+
+.home-info .info-img{
+    display: none;
+}
+
+.home-info .info-content {
+    float: none;
+    width: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+}
+
+/* Boxes */
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+.heading {
+    line-height: 3rem;
+}
+
+/*About*/
+
+.about-info .info-right,
+.about-info .info-left {
+    float: none;
+    width: 100%;
+
+}
+
+.info-left .heading {
+    line-height: 3rem;
+    text-align: center;
+}
+
+.about-info .info-right {
+    margin-top: 30px;
+}
+
+/*Contact*/
+
+.contact-info .box {
+    border-bottom: #444 dotted 1px;
+}
