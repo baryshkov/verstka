@@ -15,6 +15,7 @@ html {
 
 body {
     font-family: 'Roboto', sans-serif;
+    line-height: 1.4;
 }
 
 a {
@@ -28,14 +29,88 @@ p {
 h1 {
     margin: 0;
     margin-right: 0.2rem;
+    padding: 0;
+    font-size: 1.5em;
 }
 
 /*Utility Classes*/
+
+.container {
+    display: flex;
+    flex-flow: column wrap;
+    /*justify-content: center;*/
+    align-items: center;
+}
 
 .text-primary {
     color: #93cb52;
 }
 
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+
+.l-heading {
+    font-size: 4rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.1;
+}
+
+.m-heading {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.1;
+}
+
+.text-center { text-align: center; }
+
+.lead {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.py-1 { padding: 1.5rem 0; }
+.py-2 { padding: 2rem 0; }
+.py-3 { padding: 3rem 0; }
+
+.p-1 { padding: 1.5rem; }
+.p-2 { padding: 2rem; }
+.p-3 { padding: 3rem; }
+
+.btn {
+    display: inline-block;
+    color: #fff;
+    background: #93cb52;
+    padding: 0.5rem 2rem;
+    /*width: ;*/
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #7ab436;
+}
+
+.btn-dark {
+    background: #333;
+    color: #fff;
+}
+
+.list {
+    margin: 0.5rem 0;
+    list-style: none;
+}
+
+.list li {
+    padding: 0.5rem 0;
+    border-bottom: #444 dotted 1px;
+}
 /*Navbar*/
 
 .navbar {
@@ -77,12 +152,57 @@ h1 {
 
 .showcase .showcase-content {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: column;
     text-align: center;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     height: 100%;
+    width: 100%;
+    padding: 0 2rem;
+    /*Overlay*/
+    position: absolute;
+    top: 65px;
+    left: 0;
+    background-color: rgba(0,0,0, 0.4);
 }
+
+/*Section What We Do*/
+
+#what .items {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+#what .items .item {
+    flex: 1;
+    padding: 1rem;
+    text-align: center;
+}
+
+#what .items .item i {
+    background: #93cb52;
+    padding: 1rem;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+/*Section Who We Are*/
+
+#who {
+    display: flex;
+}
+
+#who div {
+    flex: 1;
+}
+
+#who .who-img {
+    background: url("../img/people.jpg") no-repeat center center/cover;
+}
+
+/*Clients*/
+
 
 /******** Defaults *********/
 

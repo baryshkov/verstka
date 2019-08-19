@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d73d467-ef7c-4337-8da9-fab7d933bf4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_css_introduction/14_em_rem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_css_introduction/15_VH_VW.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_css_introduction/16_flexbasics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_css_introduction/17_flex_align.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_hotel_floats/css/mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/img/logos/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/img/logos/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/img/logos/logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/img/logos/logo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/img/logos/logo5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/img/people.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/img/showcase.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/styles/mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_EdgeLedger/styles/widescreen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_css_introduction/13_aside.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_hotel_floats/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_hotel_floats/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_hotel_floats/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_hotel_floats/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_hotel_floats/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/02_hotel_floats/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_hotel_floats/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_hotel_floats/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_responsive_intro/01_media_queries.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_css_introduction/13_media_queries.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_EdgeLedger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_EdgeLedger/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/styles/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +39,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -98,8 +77,18 @@
       <workItem from="1566033048325" duration="249000" />
       <workItem from="1566036278629" duration="26000" />
       <workItem from="1566128018852" duration="1785000" />
-      <workItem from="1566133136774" duration="10720000" />
+      <workItem from="1566133136774" duration="11031000" />
+      <workItem from="1566212812666" duration="3114000" />
+      <workItem from="1566220595021" duration="3340000" />
     </task>
+    <task id="LOCAL-00001" summary="completed a few exercises, started new project">
+      <created>1566152181233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566152181233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed a few exercises, started new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed a few exercises, started new project" />
   </component>
 </project>
