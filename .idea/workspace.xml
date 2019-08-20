@@ -4,6 +4,7 @@
     <list default="true" id="6d73d467-ef7c-4337-8da9-fab7d933bf4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_EdgeLedger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_EdgeLedger/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_EdgeLedger/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/styles/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +80,10 @@
       <workItem from="1566128018852" duration="1785000" />
       <workItem from="1566133136774" duration="11031000" />
       <workItem from="1566212812666" duration="3114000" />
-      <workItem from="1566220595021" duration="3340000" />
+      <workItem from="1566220595021" duration="3486000" />
+      <workItem from="1566299500374" duration="792000" />
+      <workItem from="1566305053480" duration="1911000" />
+      <workItem from="1566321974532" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="completed a few exercises, started new project">
       <created>1566152181233</created>
@@ -88,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566152181233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Started making new flexbox powered webpage.">
+      <created>1566228143225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566228143225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed a few exercises, started new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed a few exercises, started new project" />
+    <MESSAGE value="Started making new flexbox powered webpage." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started making new flexbox powered webpage." />
   </component>
 </project>
