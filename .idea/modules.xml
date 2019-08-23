@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JavaScript30/.idea/JavaScript30.iml" filepath="$PROJECT_DIR$/../JavaScript30/.idea/JavaScript30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my-app/.idea/my-app.iml" filepath="$PROJECT_DIR$/../my-app/.idea/my-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study_js/.idea/study_js.iml" filepath="$PROJECT_DIR$/../study_js/.idea/study_js.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/verstka.iml" filepath="$PROJECT_DIR$/.idea/verstka.iml" />
     </modules>
   </component>

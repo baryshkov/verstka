@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d73d467-ef7c-4337-8da9-fab7d933bf4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaScript30/03 - CSS Variables/my-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsDialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript30/02 - JS and CSS Clock/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript30/02 - JS and CSS Clock/index-START.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_js/playground.html" beforeDir="false" afterPath="$PROJECT_DIR$/../study_js/playground.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_js/week5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../study_js/week5/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/verstka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/verstka.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_EdgeLedger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_EdgeLedger/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_EdgeLedger/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/03_EdgeLedger/styles/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +30,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1PHrGhTU8VAG1SRLI2X6N2rrjcR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -40,7 +67,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -84,7 +112,12 @@
       <workItem from="1566299500374" duration="792000" />
       <workItem from="1566305053480" duration="1911000" />
       <workItem from="1566321974532" duration="421000" />
-      <workItem from="1566389142014" duration="5711000" />
+      <workItem from="1566389142014" duration="5879000" />
+      <workItem from="1566470763436" duration="3317000" />
+      <workItem from="1566478282050" duration="2103000" />
+      <workItem from="1566480909651" duration="3472000" />
+      <workItem from="1566556024899" duration="4967000" />
+      <workItem from="1566570425735" duration="2693000" />
     </task>
     <task id="LOCAL-00001" summary="completed a few exercises, started new project">
       <created>1566152181233</created>
@@ -107,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566322554921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added yandex map to the main page, made smooth scrolling.">
+      <created>1566405688190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566405688190</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JS 30-day challenge: completed 2nd day.">
+      <created>1566485156756</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566485156756</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +177,8 @@
     <MESSAGE value="completed a few exercises, started new project" />
     <MESSAGE value="Started making new flexbox powered webpage." />
     <MESSAGE value="added few sections to edgeledger" />
-    <option name="LAST_COMMIT_MESSAGE" value="added few sections to edgeledger" />
+    <MESSAGE value="Added yandex map to the main page, made smooth scrolling." />
+    <MESSAGE value="JS 30-day challenge: completed 2nd day." />
+    <option name="LAST_COMMIT_MESSAGE" value="JS 30-day challenge: completed 2nd day." />
   </component>
 </project>

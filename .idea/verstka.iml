@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="JavaScript30" />
+    <orderEntry type="module" module-name="my-app" />
+    <orderEntry type="module" module-name="study_js" />
   </component>
 </module>

@@ -96,10 +96,13 @@ h1 {
     /*width: ;*/
     border: none;
     border-radius: 5px;
+    box-shadow: 0 0 30px;
 }
 
 .btn:hover {
     background-color: #7ab436;
+    box-shadow: 0 0 10px;
+
 }
 
 .btn-dark {
